@@ -1,0 +1,11 @@
+.items {
+    margin-top: 20px;
+    background-color: lightgray;
+    border-top: 4px block darkolivegreen;
+}
+
+.item-list:hover { 
+    padding: 5px;
+    cursor: pointer;
+    background-color: aquamarine;
+}
